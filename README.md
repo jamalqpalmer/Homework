@@ -1,6 +1,6 @@
 I've been working as an analyst for several years and I'm now transitioning into Data Analytics.
 
-My goal for this course includes learning how to tell a story through data.
+My goal for this course is learning how to tell a story through data.
 
 What Is Python Used For & Why Is It Important to Learn? https://www.discoverdatascience.org/articles/what-is-python-used-for-why-is-it-important-to-learn/
 
