@@ -1,6 +1,11 @@
+# Jamal Q Palmer
+
 I've been working as an analyst for several years and I'm now transitioning into Data Analytics.
 
-My goal for this course is learning how to tell a story through data.
+My goal for this course include, 
+- Learning how to tell a story through data
+- Building technical skills to make myself marketable
+- Improving efficiency for problem solving
 
 What Is Python Used For & Why Is It Important to Learn? https://www.discoverdatascience.org/articles/what-is-python-used-for-why-is-it-important-to-learn/
 
